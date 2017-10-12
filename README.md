@@ -1,4 +1,10 @@
-### 在原作者的基础上，修改了AppRegistryInjection.js中的EventEmitter出处
+```
+原作者版本1.2.1，仓库传送门git@github.com:magicismight/react-native-root-siblings.git
+
+在原作者的基础上，仅修改了AppRegistryInjection.js中的EventEmitter出处，因RN0.48版本变动。
+
+以下内容完全来自原作者，除模块名变化外，使用方法无变化
+```
 ---
 
 ### react-native-root-siblings
