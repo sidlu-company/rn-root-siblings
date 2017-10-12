@@ -1,4 +1,5 @@
 ### 在原作者的基础上，修改了AppRegistryInjection.js中的EventEmitter出处
+---
 
 ### react-native-root-siblings
 ---
